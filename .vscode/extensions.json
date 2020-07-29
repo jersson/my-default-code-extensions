@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "CoenraadS.bracket-pair-colorizer-2", 
+    "Gruntfuggly.todo-tree", 
+    "esbenp.prettier-vscode",
+    "ritwickdey.LiveServer", 
+    "eamodio.gitlens", 
+    "ms-vsliveshare.vsliveshare", 
+    "ms-azuretools.vscode-docker", 
+    "yzhang.markdown-all-in-one"
+  ]
+}
