@@ -9,7 +9,7 @@
   6.  [Live Share](#6-live-share)
   7.  [Docker](#7-docker)
   8.  [Bonus: Markdown All in One](#bonus-markdown-all-in-one)
-- [How to install it from this repo](#how-to-install-it-from-this-repo)
+- [How to install/use it](#how-to-installuse-it)
 
 ## Recommended extensions
 
@@ -43,21 +43,21 @@
 
 ![](https://github.com/yzhang-gh/vscode-markdown/raw/master/images/gifs/toggle-bold.gif)
 
-## How to install it from this repo
+## How to install/use it
 
 You can clone this repo or copy the [extensions.json](.vscode/extensions.json) file or just check this configuration.
 
 ```javascript
-	{
-		"recommendations": [
-			"CoenraadS.bracket-pair-colorizer-2",
-			"Gruntfuggly.todo-tree",
-			"esbenp.prettier-vscode",
-			"ritwickdey.LiveServer",
-			"eamodio.gitlens",
-			"ms-vsliveshare.vsliveshare",
-			"ms-azuretools.vscode-docker",
-			"yzhang.markdown-all-in-one"
-		]
-	}
+  {
+    "recommendations": [
+      "CoenraadS.bracket-pair-colorizer-2",
+      "Gruntfuggly.todo-tree",
+      "esbenp.prettier-vscode",
+      "ritwickdey.LiveServer",
+      "eamodio.gitlens",
+      "ms-vsliveshare.vsliveshare",
+      "ms-azuretools.vscode-docker",
+      "yzhang.markdown-all-in-one"
+    ]
+  }
 ```
