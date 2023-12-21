@@ -52,7 +52,7 @@ To improve the markdown default support, more information in this [link](https:/
 
 You can clone this repo, open it and accept the default intstallation process, or just copy the [extensions.json](.vscode/extensions.json) content:
 
-```javascript
+```json
   {
     "recommendations": [
       "Gruntfuggly.todo-tree", 
