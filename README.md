@@ -1,14 +1,16 @@
 # my-default-code-extensions
+Here's my proposal to improve the development experience using Visual Studio Code extensions. It's not oriented to any languange and I'm also thinking in something like my-node-development-tools or something like that :thinking:
 
-- [Recommended extensions](#recommended-extensions)
-  1.  [Material Icon Theme](#1-material-icon-theme)
-  2.  [GitLens — Git supercharged](#2-gitlens--git-supercharged)
-  3.  [Live Server](#3-live-server)
-  4.  [Docker](#4-docker)
-  5.  [Prettier Formatter for Visual Studio Code](#5-prettier-formatter-for-visual-studio-code)
-  6.  [Todo Tree](#6-todo-tree)
-  7.  [Markdown All in One](#7-markdown-all-in-one)
-- [How to use it](#how-to-use-it)
+- [my-default-code-extensions](#my-default-code-extensions)
+  - [Recommended extensions](#recommended-extensions)
+    - [1. Material Icon Theme](#1-material-icon-theme)
+    - [2. GitLens — Git supercharged](#2-gitlens--git-supercharged)
+    - [3. Live Server](#3-live-server)
+    - [4. Docker](#4-docker)
+    - [5. Prettier Formatter for Visual Studio Code](#5-prettier-formatter-for-visual-studio-code)
+    - [6. Todo Tree](#6-todo-tree)
+    - [7. Markdown All in One](#7-markdown-all-in-one)
+  - [How to use it](#how-to-use-it)
 
 ## Recommended extensions
 ### 1. Material Icon Theme
